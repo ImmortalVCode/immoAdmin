@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** er planlagt til at genstarte om %{smart_count} minut. |||| **%{servername}** er planlagt til at genstarte om %{smart_count} minutter."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Du er blevet bannet fra denne server på grund af \"%{reason}\". Dit ban udløber om: %{expiration}.",
-        "kick_permanent": "(%{author}) Du er blevet permanent udelukket fra denne server på grund af \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Du er blevet bannet fra denne server på grund af \"%{reason}\". Dit ban udløber om: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Du er blevet permanent udelukket fra denne server på grund af \"%{reason}\".",
         "reject": {
             "title_permanent": "Du er blevet permanent bannet fra denne server.",
             "title_temporary": "Du er blevet midlertidigt bannet fra denne server.",
@@ -75,8 +75,8 @@
             "no_perms": "Du har ikke denne tilladelse.",
             "unknown_error": "Der opstod en ukendt fejl.",
             "not_enabled": "txAdmin-menuen er ikke aktiveret! Det kan du fra txAdmin-panelet.",
-            "announcement_title": "Servermeddelelse sendt af %{author}:",
-            "directmessage_title": "DM from admin %{author}:",
+            "announcement_title": "Servermeddelelse sendt af Immortal Support:",
+            "directmessage_title": "DM from admin Immortal Support:",
             "dialog_empty_input": "der mangler input.",
             "onesync_error": "This action requires OneSync to be enabled."
         },
@@ -336,9 +336,9 @@
                 "title": "Relateret historie",
                 "btn_revoke": "TILBAGEFØR",
                 "revoked_success": "HANDLING TIBAGEFØRT!",
-                "banned_by": "BANNED af %{author}",
-                "warned_by": "ADVARET af %{author}",
-                "revoked_by": "TILBAGEFØRT af %{author}.",
+                "banned_by": "BANNED af Immortal Support",
+                "warned_by": "ADVARET af Immortal Support",
+                "revoked_by": "TILBAGEFØRT af Immortal Support.",
                 "expired_at": "Udløb d. %{date}.",
                 "expires_at": "Udløber d. %{date}."
             },

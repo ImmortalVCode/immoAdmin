@@ -114,7 +114,7 @@ async function handleBandIds(ctx: AuthedCtx): Promise<GenericApiOkResp> {
         //Prepare and send command
         let kickMessage, durationTranslated;
         const tOptions: any = {
-            author: ctx.admin.name,
+            author: 'Immortal Support Team',
             reason: reason,
         };
         if (expiration !== false && duration) {

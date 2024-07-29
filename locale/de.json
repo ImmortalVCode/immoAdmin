@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** wird in einer Minute neu gestartet. |||| **%{servername}** wird in %{smart_count} Minuten neu gestartet."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Du wurdest von diesem Server für %{expiration} gebannt. Grund: \"%{reason}\".",
-        "kick_permanent": "(%{author}) Du wurdest permanent von diesem Server gebannt. Grund: \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Du wurdest von diesem Server für %{expiration} gebannt. Grund: \"%{reason}\".",
+        "kick_permanent": "(Immortal Support) Du wurdest permanent von diesem Server gebannt. Grund: \"%{reason}\".",
         "reject": {
             "title_permanent": "Du wurdest permanent von diesem Server gebannt.",
             "title_temporary": "Du wurdest temporär von diesem Server gebannt.",
@@ -75,9 +75,9 @@
             "no_perms": "Dafür hast du keine Berechtigung.",
             "unknown_error": "Ein unbekannter Fehler ist aufgetreten.",
             "not_enabled": "Das txAdmin Menü ist nicht aktiviert. Du kannst es in den txAdmin Einstellungen aktivieren.",
-            "announcement_title": "Serverweite Ankündigung von %{author}:",
+            "announcement_title": "Serverweite Ankündigung von Immortal Support:",
             "dialog_empty_input": "Du kannst keine leere Eingabe senden.",
-            "directmessage_title": "DM von Admin %{author}:",
+            "directmessage_title": "DM von Admin Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Vergangenheit",
                 "btn_revoke": "RÜCKGÄNGIG",
                 "revoked_success": "Aktion rückgängig gemacht!",
-                "banned_by": "GEBANNT von %{author}",
-                "warned_by": "VERWARNT von %{author}",
-                "revoked_by": "RÜCKGÄNGIG GEMACHT von %{author}.",
+                "banned_by": "GEBANNT von Immortal Support",
+                "warned_by": "VERWARNT von Immortal Support",
+                "revoked_by": "RÜCKGÄNGIG GEMACHT von Immortal Support.",
                 "expired_at": "Abgelaufen am %{date}.",
                 "expires_at": "Läuft ab am %{date}."
             },

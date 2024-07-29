@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}**サーバーは%{smart_count}分後に再起動予定です。 |||| **%{servername}**サーバーは%{smart_count}分後に再起動予定です。"
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) あなたは次の理由によりBANされました \"%{reason}\" BAN期間: %{expiration}",
-        "kick_permanent": "(%{author}) あなたは次の理由により永久BANされました \"%{reason}\"",
+        "kick_temporary": "(Immortal Support) あなたは次の理由によりBANされました \"%{reason}\" BAN期間: %{expiration}",
+        "kick_permanent": "(Immortal Support) あなたは次の理由により永久BANされました \"%{reason}\"",
         "reject": {
             "title_permanent": "あなたはこのサーバーから永久BANされています。",
             "title_temporary": "あなたはこのサーバーから一時的にBANされています。",
@@ -75,8 +75,8 @@
             "no_perms": "権限を持っていません。",
             "unknown_error": "不明なエラーが発生しました。",
             "not_enabled": "txAdminメニューが有効になっていません! txAdminの設定ページで有効にできます。",
-            "announcement_title": "%{author}によるサーバーに関するお知らせ:",
-            "directmessage_title": "管理者%{author}からのDM:",
+            "announcement_title": "Immortal Supportによるサーバーに関するお知らせ:",
+            "directmessage_title": "管理者Immortal SupportからのDM:",
             "dialog_empty_input": "空の入力はできない。",
             "onesync_error": "This action requires OneSync to be enabled."
         },
@@ -336,9 +336,9 @@
                 "title": "関連履歴",
                 "btn_revoke": "取り消し",
                 "revoked_success": "アクションを取り消した!",
-                "banned_by": "%{author}によってBANされた",
-                "warned_by": "%{author}によって警告された",
-                "revoked_by": "%{author}によって取り消された",
+                "banned_by": "Immortal SupportによってBANされた",
+                "warned_by": "Immortal Supportによって警告された",
+                "revoked_by": "Immortal Supportによって取り消された",
                 "expired_at": "%{date}に失効した",
                 "expires_at": "%{date}に失効する"
             },

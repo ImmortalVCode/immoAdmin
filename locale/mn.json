@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** серверийн ээлжит шинэчлэлт %{smart_count} минутын дараа болох гэж байна. |||| **%{servername}** хотын ээлжит шинэчлэлт хүртэл %{smart_count} минут дутуу байна."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Таны нэвтрэх эрх хязгаарлагдсан байна. Шалтгаан: \"%{reason}\". Хязгаарлагдах хугацаа: %{expiration}.",
-        "kick_permanent": "(%{author}) Та тус серверт үүрд нэвтрэх эрхгүй болсон байна. \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Таны нэвтрэх эрх хязгаарлагдсан байна. Шалтгаан: \"%{reason}\". Хязгаарлагдах хугацаа: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Та тус серверт үүрд нэвтрэх эрхгүй болсон байна. \"%{reason}\".",
         "reject": {
             "title_permanent": "Та BAN -дуулсан буюу үүрд нэвтэрч чадахгүй болсон байна.",
             "title_temporary": "Та тодорхой хугацаанд BAN -дуулсан байна.",
@@ -75,8 +75,8 @@
             "no_perms": "Чи шааж болохгүй. Чамайг бид харж байна. . .",
             "unknown_error": "Үл мэдэгдэх алдаа гарлаа.",
             "not_enabled": "txAdmin цэс идэвхжээгүй байна! Та үүнийг txAdmin тохиргооны хуудаснаас идэвхжүүлж болно.",
-            "announcement_title": "Зарлал - %{author}:",
-            "directmessage_title": "Нууц шивнээ %{author}:",
+            "announcement_title": "Зарлал - Immortal Support:",
+            "directmessage_title": "Нууц шивнээ Immortal Support:",
             "dialog_empty_input": "Та хоосон бичигтэй байж болохгүй.",
             "onesync_error": "This action requires OneSync to be enabled."
         },
@@ -336,9 +336,9 @@
                 "title": "Холбогдох түүх",
                 "btn_revoke": "Цуцлах",
                 "revoked_success": "Хориг/Сэрэмжлүүлэг-ийг цуцалсан!",
-                "banned_by": "ХОРИГЛОСОН %{author}",
-                "warned_by": "АНХААРУУЛГА %{author}",
-                "revoked_by": "Хүчингүй болгосон %{author}.",
+                "banned_by": "ХОРИГЛОСОН Immortal Support",
+                "warned_by": "АНХААРУУЛГА Immortal Support",
+                "revoked_by": "Хүчингүй болгосон Immortal Support.",
                 "expired_at": "Хугацаа дууссан %{date}.",
                 "expires_at": "Дуусах цаг %{date}."
             },

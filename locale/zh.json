@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** 预计 %{smart_count} 分钟后重新启动。 |||| **%{servername}** 预计 %{smart_count} 分钟后重新启动。"
     },
     "ban_messages": {
-        "kick_temporary": "您因 \"%{reason}\" 而被封禁。您可在 %{expiration} 后再次登录服务器。操作人：%{author}",
-        "kick_permanent": "您因 \"%{reason}\" 而被永久封禁。操作人：%{author}",
+        "kick_temporary": "您因 \"%{reason}\" 而被封禁。您可在 %{expiration} 后再次登录服务器。操作人：Immortal Support",
+        "kick_permanent": "您因 \"%{reason}\" 而被永久封禁。操作人：Immortal Support",
         "reject": {
             "title_permanent": "您已被本服务器永久封禁。",
             "title_temporary": "您已被本服务器暂时封禁。",
@@ -75,9 +75,9 @@
             "no_perms": "您没有权限",
             "unknown_error": "出现未知错误。",
             "not_enabled": "txAdmin 菜单未启用！您可以在 txAdmin 设置页面中启用它。",
-            "announcement_title": "公告%{author}：",
+            "announcement_title": "公告Immortal Support：",
             "dialog_empty_input": "提交内客不能为空，请重新输入。",
-            "directmessage_title": "来自管理员 %{author} 的消息:",
+            "directmessage_title": "来自管理员 Immortal Support 的消息:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "历史信息",
                 "btn_revoke": "撤销",
                 "revoked_success": "操作已撤销！",
-                "banned_by": "被 %{author} 封禁",
-                "warned_by": "被 %{author} 警告",
-                "revoked_by": "被 %{author} 撤销",
+                "banned_by": "被 Immortal Support 封禁",
+                "warned_by": "被 Immortal Support 警告",
+                "revoked_by": "被 Immortal Support 撤销",
                 "expired_at": "将于 %{date} 过期。",
                 "expires_at": "将于 %{date} 过期。"
             },

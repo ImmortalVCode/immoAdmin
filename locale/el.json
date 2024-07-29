@@ -14,8 +14,8 @@
         "schedule_warn_discord": "Ο **%{servername}** έχει προγραμματισμένη επανεκκίνηση σε %{smart_count} λεπτό. |||| Ο **%{servername}** έχει προγραμματιμένη επανεκκίνηση σε %{smart_count} λεπτά."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Έχει απαγορευτεί η είσοδος σου στον διακομιστή για: \"%{reason}\". Η απαγορευσή σου θα λήξει σε: %{expiration}.",
-        "kick_permanent": "(%{author}) Έχει απαγορευτεί η είσοδος σου στον διακομιστή για: \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Έχει απαγορευτεί η είσοδος σου στον διακομιστή για: \"%{reason}\". Η απαγορευσή σου θα λήξει σε: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Έχει απαγορευτεί η είσοδος σου στον διακομιστή για: \"%{reason}\".",
         "reject": {
             "title_permanent": "Έχετε αποκλειστεί οριστικά από αυτόν τον διακομιστή.",
             "title_temporary": "Έχετε αποκλειστεί προσωρινά από αυτόν τον διακομιστή.",
@@ -75,9 +75,9 @@
             "no_perms": "Δεν έχεις αυτή την άδεια",
             "unknown_error": "Προκλήθηκε ένα άγνωστο σφάλμα.",
             "not_enabled": "Tο txAdmin Menu δεν είναι ενεργοποιημένο ! Μπορείς να το ενεργοποιήσεις στήν σελίδα ρυθμίσεων του txAdmin.",
-            "announcement_title": "Ανακοίνωση από τον %{author}:",
+            "announcement_title": "Ανακοίνωση από τον Immortal Support:",
             "dialog_empty_input": "Δεν μπορείς να μην εισάγεις τίποτα.",
-            "directmessage_title": "DM from admin %{author}:",
+            "directmessage_title": "DM from admin Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Related history",
                 "btn_revoke": "REVOKE",
                 "revoked_success": "Action revoked!",
-                "banned_by": "BANNED by %{author}",
-                "warned_by": "WARNED by %{author}",
-                "revoked_by": "Revoked by %{author}.",
+                "banned_by": "BANNED by Immortal Support",
+                "warned_by": "WARNED by Immortal Support",
+                "revoked_by": "Revoked by Immortal Support.",
                 "expired_at": "Expired at %{date}.",
                 "expires_at": "Expires at %{date}."
             },

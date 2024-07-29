@@ -7,6 +7,11 @@ type LogoProps = {
 
 //NOTE: used Black_Full from figma
 export function LogoFullSolidThin({ style, className }: LogoProps) {
+    return <img
+        className={className}
+        src='https://s3.immortaldev.eu/immo-branding/connecting_brand_logo.png'
+        >
+    </img>
     return <svg
         className={className}
         style={style}
@@ -25,6 +30,11 @@ export function LogoFullSolidThin({ style, className }: LogoProps) {
 export function LogoFullSquareGreen({ style, className }: LogoProps) {
     const maskId = useId();
     const bgId = useId();
+    return <img
+        className={className}
+        src='https://s3.immortaldev.eu/immo-branding/connecting_brand_logo.png'
+        >
+    </img>
     return <svg
         className={className}
         style={style}

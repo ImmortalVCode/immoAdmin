@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** má naplánovaný restart za %{smart_count} minutu. |||| **%{servername}** má naplánovaný restart za %{smart_count} minut."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Byl jsi zabanován z důvodu: \"%{reason}\". Tvůj ban vyprší za: %{expiration}.",
-        "kick_permanent": "(%{author}) Byl ti permanentně odebrán přístup k serveru a to z důvodu: \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Byl jsi zabanován z důvodu: \"%{reason}\". Tvůj ban vyprší za: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Byl ti permanentně odebrán přístup k serveru a to z důvodu: \"%{reason}\".",
         "reject": {
             "title_permanent": "Byl jsi permanentně zabanován z tohoto serveru.",
             "title_temporary": "Byl jsi dočasně zabanován z tohoto serveru.",
@@ -75,9 +75,9 @@
             "no_perms": "Na tuto možnost nemáš práva.",
             "unknown_error": "Nastala neznámá chyba.",
             "not_enabled": "txAdmin menu není povoleno! Můžeš ho povolit v txAdmin nastavení.",
-            "announcement_title": "Server oznámení od %{author}:",
+            "announcement_title": "Server oznámení od Immortal Support:",
             "dialog_empty_input": "Políčko nemůže být prázdné.",
-            "directmessage_title": "Soukromá zpráva od admina %{author}:",
+            "directmessage_title": "Soukromá zpráva od admina Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Související historie",
                 "btn_revoke": "ZRUŠIT",
                 "revoked_success": "Akce zrušena!",
-                "banned_by": "ZABANOVÁN adminem %{author}",
-                "warned_by": "VAROVÁN adminem %{author}",
-                "revoked_by": "Zrušeno adminem %{author}.",
+                "banned_by": "ZABANOVÁN adminem Immortal Support",
+                "warned_by": "VAROVÁN adminem Immortal Support",
+                "revoked_by": "Zrušeno adminem Immortal Support.",
                 "expired_at": "Vypršelo %{date}.",
                 "expires_at": "Vyprší %{date}."
             },

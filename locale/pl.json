@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** ma zaplanowany restart w ciągu %{smart_count} minuty. |||| **%{servername}** ma zaplanowany restart w ciągu %{smart_count} minut."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Zostałeś zbanowany na tym serwerze z powodu \"%{reason}\". Twój ban wygaśnie za: %{expiration}.",
-        "kick_permanent": "(%{author}) Zostałeś permanentnie zbanowany na tym serwerze za \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Zostałeś zbanowany na tym serwerze z powodu \"%{reason}\". Twój ban wygaśnie za: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Zostałeś permanentnie zbanowany na tym serwerze za \"%{reason}\".",
         "reject": {
             "title_permanent": "Zostałeś permanentnie zbanowany na tym serwerze.",
             "title_temporary": "Zostałeś tymczasowo zbanowany na tym serwerze.",
@@ -75,9 +75,9 @@
             "no_perms": "Nie posiadasz tego uprawnienia.",
             "unknown_error": "Wystąpił nieznany błąd.",
             "not_enabled": "Menu txAdmin nie jest uruchomione! Możesz je włączyć z poziomu ustawień txAdmin.",
-            "announcement_title": "Ogłoszenie nadane przez %{author}:",
+            "announcement_title": "Ogłoszenie nadane przez Immortal Support:",
             "dialog_empty_input": "Nie możesz pozostawić pustego pola tekstowego.",
-            "directmessage_title": "Wiadomość od %{author}:",
+            "directmessage_title": "Wiadomość od Immortal Support:",
             "onesync_error": "Ta czynność wymaga włączenia OneSync."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Powiązana historia",
                 "btn_revoke": "UNIEWAŻNIJ",
                 "revoked_success": "Akcja unieważniona!",
-                "banned_by": "ZBANOWANY przez %{author}",
-                "warned_by": "OSTRZEŻONY przez %{author}",
-                "revoked_by": "Unieważnione przez %{author}.",
+                "banned_by": "ZBANOWANY przez Immortal Support",
+                "warned_by": "OSTRZEŻONY przez Immortal Support",
+                "revoked_by": "Unieważnione przez Immortal Support.",
                 "expired_at": "Wygasł: %{date}.",
                 "expires_at": "Wygasa: %{date}."
             },

@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** มีกำหนดการจะรีสตาร์ทใน %{smart_count} นาที |||| **%{servername}** มีกำหนดการจะรีสตาร์ทใน %{smart_count} นาที"
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) คุณถูกแบนจากเซิร์ฟเวอร์นี้เพราะ \"%{reason}\" การแบนของคุณจะหมดอายุใน: %{expiration}.",
-        "kick_permanent": "(%{author}) คุณถูกแบนจากเซิร์ฟเวอร์นี้อย่างถาวรเพราะ \"%{reason}\"",
+        "kick_temporary": "(Immortal Support) คุณถูกแบนจากเซิร์ฟเวอร์นี้เพราะ \"%{reason}\" การแบนของคุณจะหมดอายุใน: %{expiration}.",
+        "kick_permanent": "(Immortal Support) คุณถูกแบนจากเซิร์ฟเวอร์นี้อย่างถาวรเพราะ \"%{reason}\"",
         "reject": {
             "title_permanent": "You have been permanently banned from this server.",
             "title_temporary": "You have been temporarily banned from this server.",
@@ -75,9 +75,9 @@
             "no_perms": "คุณไม่ได้รับสิทธิ์นี้",
             "unknown_error": "เกิดข้อผิดพลาดที่ไม่รู้จัก",
             "not_enabled": "ไม่ได้เปิดใช้งานเมนู txAdmin คุณสามารถเปิดใช้งานได้ในหน้า การตั้งค่าของ txAdmin",
-            "announcement_title": "ประกาศจากเซิร์ฟเวอร์โดย %{author}:",
+            "announcement_title": "ประกาศจากเซิร์ฟเวอร์โดย Immortal Support:",
             "dialog_empty_input": "คุณไม่สามารถป้อนข้อมูลว่างได้",
-            "directmessage_title": "DM from admin %{author}:",
+            "directmessage_title": "DM from admin Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "ประวัติที่เกี่ยวข้อง",
                 "btn_revoke": "REVOKE",
                 "revoked_success": "Action revoked!",
-                "banned_by": "BANNED by %{author}",
-                "warned_by": "WARNED by %{author}",
-                "revoked_by": "Revoked by %{author}.",
+                "banned_by": "BANNED by Immortal Support",
+                "warned_by": "WARNED by Immortal Support",
+                "revoked_by": "Revoked by Immortal Support.",
                 "expired_at": "Expired at %{date}.",
                 "expires_at": "Expires at %{date}."
             },

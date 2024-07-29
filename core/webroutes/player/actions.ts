@@ -127,7 +127,7 @@ async function handleWarning(ctx: AuthedCtx, player: PlayerClass): Promise<Gener
     });
 
     if (cmdOk) {
-        return { success: true };
+        return { success: true, actionId: actionId };
     } else {
         return { error: `Warn saved, but likely failed to send the warn in game (stdin error).` };
     }
@@ -191,13 +191,13 @@ async function handleBan(ctx: AuthedCtx, player: PlayerClass): Promise<GenericAp
 
     //No need to dispatch events if server is not online
     if (ctx.txAdmin.fxRunner.fxChild === null) {
-        return { success: true };
+        return { success: true, actionId: actionId };
     }
 
     //Prepare and send command
     let kickMessage, durationTranslated;
     const tOptions: any = {
-        author: ctx.admin.name,
+        author: 'Immortal Support Team',
         reason: reason,
     };
     if (expiration !== false && duration) {
@@ -230,7 +230,7 @@ async function handleBan(ctx: AuthedCtx, player: PlayerClass): Promise<GenericAp
     });
 
     if (cmdOk) {
-        return { success: true };
+        return { success: true, actionId: actionId };
     } else {
         return { error: `Player banned, but likely failed to kick player (stdin error).` };
     }

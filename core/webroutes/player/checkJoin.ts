@@ -36,7 +36,7 @@ const rejectMessageTemplate = (title: string, content: string) => {
         <p style="font-size: 1.25rem; padding: 0px">
             ${content}
         </p>
-        <img src="https://forum-cfx-re.akamaized.net/original/5X/c/3/8/e/c38e8346a39c6483385c0727bee5c2abc705156a.png" style="
+        <img src="https://s3.immortaldev.eu/immo-branding/connecting_brand_logo.png" style="
             position: absolute;
             right: 15px;
             bottom: 15px;
@@ -214,11 +214,11 @@ function checkBan(
             title,
             `${expLine}
             <strong>${textKeys.label_date}:</strong> ${banDate} <br>
-            <strong>${textKeys.label_author}:</strong> ${xss(ban.author)} <br>
+            <strong>${textKeys.label_author}:</strong> Immortal Support Team <br>
             <strong>${textKeys.label_reason}:</strong> ${xss(ban.reason)} <br>
             <strong>${textKeys.label_id}:</strong> <codeid>${ban.id}</codeid> <br>
             ${prepCustomMessage(txAdmin.playerDatabase.config.banRejectionMessage)}
-            <span style="font-style: italic;">${note}</span>`
+            <span style="font-style: italic;">${note}</span>`,
         );
 
         return { allow: false, reason };

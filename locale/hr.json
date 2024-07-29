@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** se restarta za %{smart_count} minutu. |||| **%{servername}** se restarta za %{smart_count} minuta."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Banani ste sa servera zbog \"%{reason}\". Vaš ban ističe za: %{expiration}.",
-        "kick_permanent": "(%{author}) Banani ste sa servera zauvijek zbog \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Banani ste sa servera zbog \"%{reason}\". Vaš ban ističe za: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Banani ste sa servera zauvijek zbog \"%{reason}\".",
         "reject": {
             "title_permanent": "Banani ste sa servera zauvijek.",
             "title_temporary": "Privremeno ste banani sa servera.",
@@ -75,9 +75,9 @@
             "no_perms": "Nemas permisiju.",
             "unknown_error": "Nepoznata greška se desila.",
             "not_enabled": "The txAdmin Menu is not enabled! You can enable it in the txAdmin settings page.",
-            "announcement_title": "Server obavještenje od %{author}:",
+            "announcement_title": "Server obavještenje od Immortal Support:",
             "dialog_empty_input": "Ne možete imati prazan unos.",
-            "directmessage_title": "DM od admina %{author}:",
+            "directmessage_title": "DM od admina Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Povezana povijest",
                 "btn_revoke": "MAKNI",
                 "revoked_success": "Akcija maknuta!",
-                "banned_by": "BANAN od %{author}",
-                "warned_by": "UPOZOREN od %{author}",
-                "revoked_by": "Maknut od %{author}.",
+                "banned_by": "BANAN od Immortal Support",
+                "warned_by": "UPOZOREN od Immortal Support",
+                "revoked_by": "Maknut od Immortal Support.",
                 "expired_at": "Isteko u %{date}.",
                 "expires_at": "Ističe u %{date}."
             },

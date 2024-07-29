@@ -37,24 +37,6 @@ export function ServerSidebar({ isSheet }: ServerSidebarProps) {
             </div>
             <hr className={isSheet ? 'block' : 'hidden'} />
 
-            {window.txConsts.adsData.main ? (
-                <a
-                    href={window.txConsts.adsData.main.url}
-                    onClick={handleExternalLinkClick}
-                    target='_blank'
-                    className='w-sidebar h-[80px] relative self-center group shadow-sm opacity-80 hover:opacity-100
-                    dark:brightness-90 dark:hover:brightness-100'
-                >
-                    <div className='absolute inset-0 -z-10 animate-pulse blur 
-                    scale-0 group-hover:scale-100 transition-transform bg-black
-                    dark:bg-gradient-to-r dark:from-[#18E889] dark:to-[#01FFFF]' />
-                    <img
-                        className='rounded-xl max-w-sidebar max-h-[80px] m-auto'
-                        src={window.txConsts.adsData.main.img}
-                    />
-                </a>
-            ) : null}
-
             {window.txConsts.isWebInterface ? (
                 <div className='flex flex-col items-center justify-center gap-1 text-sm font-light opacity-85 hover:opacity-100'>
                     <span className={cn(
@@ -71,7 +53,7 @@ export function ServerSidebar({ isSheet }: ServerSidebarProps) {
                         target="_blank"
                         className='text-muted-foreground hover:text-accent'
                     >
-                        &copy; 2019-{(new Date).getUTCFullYear()} Tabarra
+                        &copy; 2019-{(new Date).getUTCFullYear()} Tabarra. <br />Modded for ImmortalV
                     </a>
                 </div>
             ) : null}

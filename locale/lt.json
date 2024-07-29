@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** automatiškai persikraus už %{smart_count} min. |||| **%{servername}** automatiškai persikraus už %{smart_count} min."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Buvote užblokuotas iš serverio dėl \"%{reason}\". Blokavimas bus baigtas: %{expiration}.",
-        "kick_permanent": "(%{author}) Buvote užblokuotas iš serverio visam laikui dėl \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Buvote užblokuotas iš serverio dėl \"%{reason}\". Blokavimas bus baigtas: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Buvote užblokuotas iš serverio visam laikui dėl \"%{reason}\".",
         "reject": {
             "title_permanent": "Esate visam laikui užblokuotas nuo prisijungimo į serverį.",
             "title_temporary": "Esate laikinai užblokuotas nuo prisijungimo į serverį.",
@@ -75,9 +75,9 @@
             "no_perms": "Neturite tam teisių.",
             "unknown_error": "Nežinoma klaida.",
             "not_enabled": "txAdmin meniu nėra įjungtas! Tai galite padaryti per txAdmin nustatymų (settings) puslapį.",
-            "announcement_title": "Serverio pranešimas nuo: %{author}:",
+            "announcement_title": "Serverio pranešimas nuo: Immortal Support:",
             "dialog_empty_input": "Turite užpildyti įvesties laukelius.",
-            "directmessage_title": "PŽ. iš administratoriaus %{author}:",
+            "directmessage_title": "PŽ. iš administratoriaus Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Susijusi informacija",
                 "btn_revoke": "ATŠAUKTI",
                 "revoked_success": "Veiksmas atšauktas!",
-                "banned_by": "Užblokuotas %{author}",
-                "warned_by": "Perspėtas %{author}",
-                "revoked_by": "Atimta %{author}.",
+                "banned_by": "Užblokuotas Immortal Support",
+                "warned_by": "Perspėtas Immortal Support",
+                "revoked_by": "Atimta Immortal Support.",
                 "expired_at": "Baigė galioti %{date}.",
                 "expires_at": "Baigs galioti %{date}."
             },

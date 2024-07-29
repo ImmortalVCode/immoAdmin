@@ -14,8 +14,8 @@
         "schedule_warn_discord": "A(z) **%{servername}** ütemezett újraindítása lesz %{smart_count} perc múlva. |||| **%{servername}** ütemezett újraindítása lesz %{smart_count} perc múlva."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Ki lettél tiltva a szerverről. Indok: \"%{reason}\". Lejár: %{expiration}.",
-        "kick_permanent": "(%{author}) Véglegesen ki lettél tiltva a szerverről. Indok: \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Ki lettél tiltva a szerverről. Indok: \"%{reason}\". Lejár: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Véglegesen ki lettél tiltva a szerverről. Indok: \"%{reason}\".",
         "reject": {
             "title_permanent": "Véglegesen ki lettél tiltva a szerverről.",
             "title_temporary": "Átmenetileg ki vagy tiltva a szerverről.",
@@ -75,9 +75,9 @@
             "no_perms": "Ehhez nincs engedélyed.",
             "unknown_error": "Ismeretlen hiba lépett fel.",
             "not_enabled": "A txAdmin menü nincs engedélyezve! Engedélyezheted a txAdmin beállítások fülön.",
-            "announcement_title": "Szerver felhívás %{author}:",
+            "announcement_title": "Szerver felhívás Immortal Support:",
             "dialog_empty_input": "Nem lehet üresen hagyni.",
-            "directmessage_title": "Privát üzenet admintól %{author}:",
+            "directmessage_title": "Privát üzenet admintól Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Kapcsolódó előzmények",
                 "btn_revoke": "Visszavon",
                 "revoked_success": "Művelet visszavonva!",
-                "banned_by": "KITILTVA  %{author} által",
-                "warned_by": "FIGYELMEZTETVE %{author} által",
-                "revoked_by": "Visszavonva %{author} által.",
+                "banned_by": "KITILTVA  Immortal Support által",
+                "warned_by": "FIGYELMEZTETVE Immortal Support által",
+                "revoked_by": "Visszavonva Immortal Support által.",
                 "expired_at": "Lejárat ekkor: %{date}.",
                 "expires_at": "Lejárat ekkor: %{date}."
             },

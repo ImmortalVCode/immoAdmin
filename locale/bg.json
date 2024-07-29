@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** ще се рестартира след %{smart_count} минути. |||| **%{servername}** ще се рестартира след %{smart_count} минути."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Вие бяхте баннат: \"%{reason}\". Твоята забрана ще изтече след: %{expiration}.",
-        "kick_permanent": "(%{author}) Вие бяхте перманентно баннат от този сървър с причина: \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Вие бяхте баннат: \"%{reason}\". Твоята забрана ще изтече след: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Вие бяхте перманентно баннат от този сървър с причина: \"%{reason}\".",
         "reject": {
             "title_permanent": "Вие бяхте перманентно баннат от този сървър.",
             "title_temporary": "Вие бяхте временно баннат от този сървър.",
@@ -75,9 +75,9 @@
             "no_perms": "Нямаш правомощията за това.",
             "unknown_error": "Възникна неизвестна грешка..",
             "not_enabled": "txAdmin менюто не е включено! Може да го включиш чрез настройките на txAdmin.",
-            "announcement_title": "Сървърно съобщение от %{author}:",
+            "announcement_title": "Сървърно съобщение от Immortal Support:",
             "dialog_empty_input": "Полето е празно.",
-            "directmessage_title": "ЛС от администратор %{author}:",
+            "directmessage_title": "ЛС от администратор Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "История на Бановете...",
                 "btn_revoke": "ОТМЕНИ",
                 "revoked_success": "Действието е отменено!",
-                "banned_by": "БАННАТ от %{author}",
-                "warned_by": "ПРЕДУПРЕДЕН от %{author}",
-                "revoked_by": "Отменено от %{author}.",
+                "banned_by": "БАННАТ от Immortal Support",
+                "warned_by": "ПРЕДУПРЕДЕН от Immortal Support",
+                "revoked_by": "Отменено от Immortal Support.",
                 "expired_at": "Изтекъл на %{date}.",
                 "expires_at": "Изтича на %{date}."
             },

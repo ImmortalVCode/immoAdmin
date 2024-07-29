@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** sẽ khởi động lại sau %{smart_count} phút. |||| **%{servername}** đã được lên lịch khởi động lại sau %{smart_count} phút."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Bạn đã bị cấm tham gia máy chủ vì lý do: \"%{reason}\". Thời hạn cấm sẽ hết hạn sau: %{expiration}.",
-        "kick_permanent": "(%{author}) Bạn đã bị cấm tham gia máy chủ vì lý do: \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Bạn đã bị cấm tham gia máy chủ vì lý do: \"%{reason}\". Thời hạn cấm sẽ hết hạn sau: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Bạn đã bị cấm tham gia máy chủ vì lý do: \"%{reason}\".",
         "reject": {
             "title_permanent": "Bạn đã bị cấm vĩnh viễn tham gia máy chủ này.",
             "title_temporary": "Bạn đã tạm thời bị cấm tham gia máy chủ này.",
@@ -75,8 +75,8 @@
             "no_perms": "Bạn không có quyền!",
             "unknown_error": "Có lỗi xảy ra.",
             "not_enabled": "txAdmin Menu chưa được bật, bạn có thể bật tại mục cài đặt.",
-            "announcement_title": "Thông báo máy chủ bởi %{author}:",
-            "directmessage_title": "Tin nhắn từ Admin %{author}:",
+            "announcement_title": "Thông báo máy chủ bởi Immortal Support:",
+            "directmessage_title": "Tin nhắn từ Admin Immortal Support:",
             "dialog_empty_input": "Bạn không thể để trống mục này.",
             "onesync_error": "This action requires OneSync to be enabled."
         },
@@ -336,9 +336,9 @@
                 "title": "Lịch sử liên quan",
                 "btn_revoke": "GỠ BỎ",
                 "revoked_success": "Hành động bị thu hồi!",
-                "banned_by": "Bị cấm bởi %{author}",
-                "warned_by": "Cảnh cáo bởi %{author}",
-                "revoked_by": "Gỡ bỏ bởi %{author}.",
+                "banned_by": "Bị cấm bởi Immortal Support",
+                "warned_by": "Cảnh cáo bởi Immortal Support",
+                "revoked_by": "Gỡ bỏ bởi Immortal Support.",
                 "expired_at": "Hết hạn lúc %{date}.",
                 "expires_at": "Hết hạn lúc %{date}."
             },

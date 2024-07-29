@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** El servidor se va a reiniciar en %{smart_count} minutos. |||| **%{servername}** El servidor se va a reiniciar en %{smart_count} minutos."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Has sido baneado del servidor por \"%{reason}\". Tu baneo expirará en: %{expiration}.",
-        "kick_permanent": "(%{author}) Has sido baneado permanentemente del servidor por \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Has sido baneado del servidor por \"%{reason}\". Tu baneo expirará en: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Has sido baneado permanentemente del servidor por \"%{reason}\".",
         "reject": {
             "title_permanent": "Has sido expulsado permanentemente de este servidor.",
             "title_temporary": "Has sido expulsado temporalmente de este servidor.",
@@ -75,9 +75,9 @@
             "no_perms": "No tienes este permiso",
             "unknown_error": "Ha ocurrido un error.",
             "not_enabled": "¡Menú txAdmin no está activado! Puedes activarlo en la página de ajustes de txAdmin.",
-            "announcement_title": "Anuncio del servidor de %{author}:",
+            "announcement_title": "Anuncio del servidor de Immortal Support:",
             "dialog_empty_input": "La entrada no puede estar vacía.",
-            "directmessage_title": "MD de admin %{author}:",
+            "directmessage_title": "MD de admin Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Historial relacionado",
                 "btn_revoke": "REVOCAR",
                 "revoked_success": "¡Acción revocada!",
-                "banned_by": "BANEADO por %{author}",
-                "warned_by": "ADVERTIDO por %{author}",
-                "revoked_by": "Revocado por %{author}.",
+                "banned_by": "BANEADO por Immortal Support",
+                "warned_by": "ADVERTIDO por Immortal Support",
+                "revoked_by": "Revocado por Immortal Support.",
                 "expired_at": "Expirado el %{date}.",
                 "expires_at": "Expirado el %{date}."
             },

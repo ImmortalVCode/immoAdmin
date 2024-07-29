@@ -14,8 +14,8 @@
         "schedule_warn_discord": ".دقائق %{smart_count} ومن المقرر إعادة التشغيل في **%{servername}** |||| .دقيقة %{smart_count} ومن المقرر إعادة التشغيل في **%{servername}**"
     },
     "ban_messages": {
-        "kick_temporary": ".%{expiration} :ستنتهي صلاحية حظرك في .\"%{reason}\"  لقد تم حظرك من هذا الخادم لسبب (%{author})",
-        "kick_permanent": ".\"%{reason}\" لقد تم حظرك بشكل دائم من هذا الخادم لـسبب (%{author})",
+        "kick_temporary": ".%{expiration} :ستنتهي صلاحية حظرك في .\"%{reason}\"  لقد تم حظرك من هذا الخادم لسبب (Immortal Support)",
+        "kick_permanent": ".\"%{reason}\" لقد تم حظرك بشكل دائم من هذا الخادم لـسبب (Immortal Support)",
         "reject": {
             "title_permanent": ".لقد تم حظرك بشكل دائم من هذا الخادم",
             "title_temporary": ".لقد تم حظرك مؤقتا من هذا الخادم",
@@ -75,9 +75,9 @@
             "no_perms": ".ليس لديك هذا الإذن",
             "unknown_error": ".حدث خطأ غير معروف",
             "not_enabled": ".txAdmin يمكنك تمكينه في صفحة إعدادات !txAdmin لم يتم تمكين قائمة",
-            "announcement_title": ":%{author} رسالة من سيرفر مهم من",
+            "announcement_title": ":Immortal Support رسالة من سيرفر مهم من",
             "dialog_empty_input": ".لا يمكن أن يكون لديك إدخال فارغ",
-            "directmessage_title": ":%{author} رسالة مباشرة من المشرف",
+            "directmessage_title": ":Immortal Support رسالة مباشرة من المشرف",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "التاريخ ذو الصلة",
                 "btn_revoke": "سحب او إبطال",
                 "revoked_success": "تم إبطال الإجراء!",
-                "banned_by": "%{author} محظور من قبل",
-                "warned_by": "%{author} حذر من قبل",
-                "revoked_by": ".%{author} أبطله من قبل",
+                "banned_by": "Immortal Support محظور من قبل",
+                "warned_by": "Immortal Support حذر من قبل",
+                "revoked_by": ".Immortal Support أبطله من قبل",
                 "expired_at": ".%{date} انتهت في",
                 "expires_at": ".%{date} تنتهي في"
             },

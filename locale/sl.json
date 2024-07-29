@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** se bo ponovno zagnal čez %{smart_count} minuto. |||| **%{servername}** se bo ponovno zagnal čez %{smart_count} minut/i/e."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Bil si odstranjen iz strežnika zaradi \"%{reason}\". Tvoj BAN se izteče čez: %{expiration}.",
-        "kick_permanent": "(%{author}) Bil si odstranjen iz strežnika za vedno  \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Bil si odstranjen iz strežnika zaradi \"%{reason}\". Tvoj BAN se izteče čez: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Bil si odstranjen iz strežnika za vedno  \"%{reason}\".",
         "reject": {
             "title_permanent": "You have been permanently banned from this server.",
             "title_temporary": "You have been temporarily banned from this server.",
@@ -75,9 +75,9 @@
             "no_perms": "Nimaš tega dovoljenja.",
             "unknown_error": "Prišlo je do neznane težave.",
             "not_enabled": "txAdmin Meni ni omogočen! Lahko ga omogočiš v txAdmin nastavitvah.",
-            "announcement_title": "Obvestilo od %{author}:",
+            "announcement_title": "Obvestilo od Immortal Support:",
             "dialog_empty_input": "Ne moreš imeti praznega vnosa.",
-            "directmessage_title": "DM from admin %{author}:",
+            "directmessage_title": "DM from admin Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Povezana zgodovina",
                 "btn_revoke": "REVOKE",
                 "revoked_success": "Action revoked!",
-                "banned_by": "BANNED by %{author}",
-                "warned_by": "WARNED by %{author}",
-                "revoked_by": "Revoked by %{author}.",
+                "banned_by": "BANNED by Immortal Support",
+                "warned_by": "WARNED by Immortal Support",
+                "revoked_by": "Revoked by Immortal Support.",
                 "expired_at": "Expired at %{date}.",
                 "expires_at": "Expires at %{date}."
             },

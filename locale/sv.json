@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** är schemalagd att startas om inom %{smart_count} minuter. |||| **%{servername}** är schemalagd att startas om inom %{smart_count} minuter."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Du har blivit bannlyst från denna server på grund av \"%{reason}\". Din bannlysning går ut : %{expiration}.",
-        "kick_permanent": "(%{author}) Du har blivit permanent bannlyst från denna server på grund av \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Du har blivit bannlyst från denna server på grund av \"%{reason}\". Din bannlysning går ut : %{expiration}.",
+        "kick_permanent": "(Immortal Support) Du har blivit permanent bannlyst från denna server på grund av \"%{reason}\".",
         "reject": {
             "title_permanent": "Du har blivit permanent bannlyst från servern.",
             "title_temporary": "Du har blivit temorärt bannlyst.",
@@ -75,9 +75,9 @@
             "no_perms": "Du har inte behörighet för detta.",
             "unknown_error": "Ett okänt problem har uppstått",
             "not_enabled": "Txadmin menyn är inte aktiverad! Du kan aktivera den på Txadmin panelen.",
-            "announcement_title": "Server meddelande skickat av %{author}:",
+            "announcement_title": "Server meddelande skickat av Immortal Support:",
             "dialog_empty_input": "Du kan inte ha ett tomt fält.",
-            "directmessage_title": "DM from admin %{author}:",
+            "directmessage_title": "DM from admin Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Historik",
                 "btn_revoke": "Dra tillbaka",
                 "revoked_success": "Handling tillbaka dragen",
-                "banned_by": "Bannlyst av %{author}",
-                "warned_by": "Varnad av %{author}",
-                "revoked_by": "Tillbaka dragen av %{author}.",
+                "banned_by": "Bannlyst av Immortal Support",
+                "warned_by": "Varnad av Immortal Support",
+                "revoked_by": "Tillbaka dragen av Immortal Support.",
                 "expired_at": "Gick ut den %{date}.",
                 "expires_at": "Går ut den %{date}."
             },

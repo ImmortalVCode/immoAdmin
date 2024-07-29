@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** on uudelleenkäynnistymässä %{smart_count} minuutin kuluttua. |||| **%{servername}** on ajoitettu käynnistymään uudelleen %{smart_count} minuutin kuluttua."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) Olet saanut porttikiellon palvelimelle. Porttikiellon syy: \"%{reason}\". Porttikielto päättyy: %{expiration}.",
-        "kick_permanent": "(%{author}) Olet saanut pysyvän porttikiellon palvelimelle. Porttikiellon syy: \"%{reason}\".",
+        "kick_temporary": "(Immortal Support) Olet saanut porttikiellon palvelimelle. Porttikiellon syy: \"%{reason}\". Porttikielto päättyy: %{expiration}.",
+        "kick_permanent": "(Immortal Support) Olet saanut pysyvän porttikiellon palvelimelle. Porttikiellon syy: \"%{reason}\".",
         "reject": {
             "title_permanent": "Olet saanut ikuisen porttikiellon palvelimelle.",
             "title_temporary": "Olet saanut porttikiellon palvelimelle.",
@@ -75,9 +75,9 @@
             "no_perms": "Sinulla ei ole oikeuksia tähän.",
             "unknown_error": "Tuntematon virhe",
             "not_enabled": "txAdmin Menu ei ole käytössä! Voit ottaa sen käyttöön txAdminin asetuksista.",
-            "announcement_title": "Palvelinilmoitus henkilöltä %{author}:",
+            "announcement_title": "Palvelinilmoitus henkilöltä Immortal Support:",
             "dialog_empty_input": "Tekstikenttä ei voi olla tyhjä.",
-            "directmessage_title": "Yksityisviesti ylläpitäjältä %{author}:",
+            "directmessage_title": "Yksityisviesti ylläpitäjältä Immortal Support:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "Historia",
                 "btn_revoke": "KUMOA",
                 "revoked_success": "Tapahtuma kumottu!",
-                "banned_by": "PORTTIKIELLON antanut %{author}",
-                "warned_by": "VAROITUKSEN antanut %{author}",
-                "revoked_by": "Kumonnut %{author}.",
+                "banned_by": "PORTTIKIELLON antanut Immortal Support",
+                "warned_by": "VAROITUKSEN antanut Immortal Support",
+                "revoked_by": "Kumonnut Immortal Support.",
                 "expired_at": "Expired at %{date}.",
                 "expires_at": "Expires at %{date}."
             },

@@ -154,10 +154,6 @@ function AuthedHeaderFragment() {
                     <KeyRoundIcon className="mr-2 h-4 w-4" />
                     Your Account
                 </DropdownMenuItem>
-                <DropdownMenuItem className="cursor-pointer" onClick={gotoSupportDiscord}>
-                    <FaDiscord size="14" className="mr-2" />
-                    Support
-                </DropdownMenuItem>
 
                 {/* Don't show logout if on NUI */}
                 {window.txConsts.isWebInterface && (

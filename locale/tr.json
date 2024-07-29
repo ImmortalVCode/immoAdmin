@@ -14,8 +14,8 @@
         "schedule_warn_discord": "**%{servername}** sunucusu %{smart_count} dakika içerisinde yeniden başlatılmaya zamanlandı. |||| **%{servername}** sunucusu %{smart_count} dakika içerisinde yeniden başlatılmaya zamanlandı."
     },
     "ban_messages": {
-        "kick_temporary": "(%{author}) \"%{reason}\" sebebi ile bu sunucudan uzaklaştırıldın! Cezanın bitmesine kalan süre: %{expiration}.",
-        "kick_permanent": "(%{author}) \"%{reason}\". sebebi ile bu sunucudan süresiz olarak uzaklaştırıldın!",
+        "kick_temporary": "(Immortal Support) \"%{reason}\" sebebi ile bu sunucudan uzaklaştırıldın! Cezanın bitmesine kalan süre: %{expiration}.",
+        "kick_permanent": "(Immortal Support) \"%{reason}\". sebebi ile bu sunucudan süresiz olarak uzaklaştırıldın!",
         "reject": {
             "title_permanent": "Bu sunucudan kalıcı olarak yasaklandınız.",
             "title_temporary": "Bu sunucudan geçici olarak yasaklandınız.",
@@ -75,9 +75,9 @@
             "no_perms": "Bu izne sahip değilsiniz.",
             "unknown_error": "Bilinmeyen bir hata oluştu.",
             "not_enabled": "txAdmin Menüsü etkin değil! Bunu txAdmin ayarları sayfasından etkinleştirebilirsiniz.",
-            "announcement_title": "%{author} tarafından Sunucu Duyurusu:",
+            "announcement_title": "Immortal Support tarafından Sunucu Duyurusu:",
             "dialog_empty_input": "Boş bir girdiniz olamaz.",
-            "directmessage_title": "%{author} yöneticisinden DM:",
+            "directmessage_title": "Immortal Support yöneticisinden DM:",
             "onesync_error": "This action requires OneSync to be enabled."
         },
         "frozen": {
@@ -331,9 +331,9 @@
                 "title": "İlgili geçmiş",
                 "btn_revoke": "İPTAL ET",
                 "revoked_success": "İşlem iptal edildi!",
-                "banned_by": "%{author} tarafından yasaklandı",
-                "warned_by": "%{author} tarafından uyarıldı",
-                "revoked_by": "%{author} tarafından iptal edildi.",
+                "banned_by": "Immortal Support tarafından yasaklandı",
+                "warned_by": "Immortal Support tarafından uyarıldı",
+                "revoked_by": "Immortal Support tarafından iptal edildi.",
                 "expired_at": "%{date} tarihinde süresi doldu.",
                 "expires_at": "%{date} tarihinde sona eriyor."
             },
